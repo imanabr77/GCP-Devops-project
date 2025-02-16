@@ -2,6 +2,8 @@
 
 This project demonstrates how to deploy a simple Go application on Google Kubernetes Engine (GKE) using Terraform for infrastructure provisioning and Kubernetes manifests for application deployment. It also includes a CI/CD pipeline using GitHub Actions for automated builds and deployments.
 
+![Alt text](<GCP Devops Project.jpg>)
+
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
